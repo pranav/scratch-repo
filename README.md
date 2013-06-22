@@ -5,4 +5,4 @@
 ### This is a super cool repo!
 * I can use lists
 1. Some lists can use numbers
-2. Git is cool! 
+2. Git is super mega cool!
